@@ -1,6 +1,7 @@
 # Лидеры Цифровой Трансформации 2023 - Задача 14
 ## Репозитории
 |**Репозиторий**|**Описание**|
+|:-----:|:-----:|
 |[ldt-2023-pds-backend-calc](https://github.com/infantem-team-v2/ldt-2023-pds-backend-calc)|Сервис расчёта инвестиций|
 |[ldt-2023-frontend](https://github.com/infantem-team-v2/ldt-2023-frontend)|Frontend веб-сервиса|
 |[ldt-2023-gb-ui-core ](https://github.com/infantem-team-v2/ldt-2023-gb-ui-core)|Ядро Backend-Driven-UI|
